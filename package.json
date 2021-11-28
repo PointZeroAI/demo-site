@@ -1,0 +1,26 @@
+{
+  "name": "demo-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PointZeroAI/demo-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PointZeroAI/demo-site/issues"
+  },
+  "homepage": "https://github.com/PointZeroAI/demo-site#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "material-ui": "^0.20.2",
+    "next": "^12.0.4"
+  }
+}
